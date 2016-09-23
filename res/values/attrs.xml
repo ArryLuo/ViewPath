@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="temp">
+        <!--圆弧宽度  -->
+        <attr name="progressWidth" format="dimension"></attr>
+        <!-- 当前温度的度数值 -->
+        <attr name="tempText" format="string"></attr>
+        <!-- 当前温度数值大小 -->
+        <attr name="tempTextSize" format="dimension"></attr>
+    </declare-styleable>
+</resources>
